@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Thealph]]></title>
         <description><![CDATA[Thealph]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thealph/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 03:11:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Dec 2015 03:11:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thealph/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[H]]></title>
+            <description><![CDATA[<h1>H</h1>]]></description>
+            <link>https://thegrid.ai/thealph/h/index.html</link>
+            <guid isPermaLink="false">3824f22b-f44c-40b1-bfaa-3d4157f1748a</guid>
+            <pubDate>Sat, 12 Dec 2015 03:11:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[J]]></title>
             <description><![CDATA[<h1>J</h1>]]></description>
-            <link>undefinedj/index.html</link>
+            <link>https://thegrid.ai/thealph/j/index.html</link>
             <guid isPermaLink="false">b98c2fcc-0653-4f66-870c-50d4b9346e86</guid>
             <pubDate>Sat, 12 Dec 2015 03:11:33 GMT</pubDate>
         </item>
