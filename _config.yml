@@ -1,6 +1,6 @@
 name: Thealph
 favicon: null
-layout_spectrum: 0.758784904377535
+layout_spectrum: 0.2651
 typography_spectrum: 0.20945756789296865
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.6265919979196042
+  brandStrength: 0.5
   lightness: 0.6810787543654442
   saturation: 0.47736814548261464
   rhythmicContrast: 0.9153028049040586
